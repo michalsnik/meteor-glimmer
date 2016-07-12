@@ -1,2 +1,4 @@
 # meteor-glimmer
-Plugin for connecting Glimmer 2 with Meteor
+> Plugin for connecting Glimmer 2 with Meteor
+
+Stay tuned
