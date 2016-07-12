@@ -1,0 +1,24 @@
+{
+  "name": "meteor-glimmer",
+  "version": "0.0.1",
+  "description": "Plugin for connecting glimmer with meteor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michalsnik/meteor-glimmer.git"
+  },
+  "keywords": [
+    "meteor",
+    "glimmer",
+    "ember"
+  ],
+  "author": "Michał Sajnóg (michal.sajnog@hotmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michalsnik/meteor-glimmer/issues"
+  },
+  "homepage": "https://github.com/michalsnik/meteor-glimmer#readme"
+}
